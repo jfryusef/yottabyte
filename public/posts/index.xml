@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on yottabyte</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on yottabyte</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 12:35:40 +0330</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Fri, 04 Oct 2024 12:35:40 +0330</pubDate>
+      
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>&lt;h1 id=&#34;molaaaaaaaaaa&#34;&gt;molaaaaaaaaaa&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;yek&lt;/li&gt;
+&lt;li&gt;do&lt;/li&gt;
+&lt;li&gt;se
+alo?&lt;/li&gt;
+&lt;/ol&gt;</description>
+      <content>&lt;h1 id=&#34;molaaaaaaaaaa&#34;&gt;molaaaaaaaaaa&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;yek&lt;/li&gt;
+&lt;li&gt;do&lt;/li&gt;
+&lt;li&gt;se
+alo?&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

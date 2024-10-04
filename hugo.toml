@@ -1,0 +1,5 @@
+baseURL = 'https://jfryusef.ir/'
+languageCode = 'en-us'
+title = 'yottabyte'
+
+theme = 'terminal'
